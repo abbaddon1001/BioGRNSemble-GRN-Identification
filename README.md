@@ -11,7 +11,7 @@ The paper aims to propose and demonstrate BioGRNsemble, a modular and flexible a
 ## RNA-seq Dataset of Focus:
 Potier et al. Drosophila Eye 72-sample RNA-seq expression Dataset
 
-# Dataset Reference:
+### Dataset Reference:
 Delphine Potier, Kristofer Davie, Gert Hulselmans, Marina Naval Sanchez, Lotte Haagen, Vân Anh Huynh-Thu, Duygu Koldere, Arzu Celik, Pierre Geurts, Valerie Christiaens, Stein Aerts, Mapping Gene Regulatory Networks in Drosophila Eye Development by Large-Scale Transcriptome Perturbations and Motif Inference, Cell Reports, Volume 9, Issue 6, 2014, Pages 2290-2303, ISSN 2211-1247, https://doi.org/10.1016/j.celrep.2014.11.038. (https://www.sciencedirect.com/science/article/pii/S2211124714010043)
 
 ## Acknowledgements:

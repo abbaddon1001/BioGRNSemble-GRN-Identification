@@ -11,7 +11,8 @@ The methodology involves the following pipeline:
 
 ## Paper:
 Authors: Abdul Jawad Mohammed, Dr. Amal Khalifa
-DROSOPHILA EYE GENE REGULATORY NETWORK INFERENCE USING BioGRNsemble: AN ENSEMBLE-of-ENSEMBLES MACHINE LEARNING APPROACH [Manuscript under review]
+DROSOPHILA EYE GENE REGULATORY NETWORK INFERENCE USING BioGRNsemble: AN ENSEMBLE-of-ENSEMBLES MACHINE LEARNING APPROACH
+BioMedInformatics 2024, 4(4), 2186-2200; https://doi.org/10.3390/biomedinformatics4040117
 
 ### Abstract/Summary: 
 The paper aims to propose and demonstrate BioGRNsemble, a modular and flexible approach for inferencing gene regulatory networks from RNA-Seq data. Integrating the GENIE3 and GRNBoost2 algorithms, this ensembles-of-ensembles method attempts to balance the outputs of both models through averaging, before providing a trimmed-down gene regulatory network consisting of transcription and target genes. Using a Drosophila Eye Dataset, we were able to successfully test this novel methodology, and our validation analysis using an online database determined over 3500 gene links correctly detected, albeit out of almost 530,000 predictions, leaving plenty of room for improvement in the future.
